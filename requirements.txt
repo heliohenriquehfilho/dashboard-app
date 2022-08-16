@@ -1,6 +1,4 @@
 Dash
-dash-bootstrap-components==1.2.1
 numpy==1.23.1
 pandas==1.4.3
-scipy==1.8.1
 pandas==1.4.3
